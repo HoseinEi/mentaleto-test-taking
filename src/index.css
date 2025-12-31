@@ -1,0 +1,7 @@
+/* Set RTL direction globally */
+html, body {
+  direction: rtl;
+  font-family: Vazirmatn, sans-serif !important; /* Font family will be applied globally */
+  margin: 0;
+  padding: 0;
+}
